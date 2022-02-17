@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9jZ32D+2UPuCXkJwFR9ucl/ibsR4cHua8gEMJ4ZFyYvxT8Pe9rjRFxJ0WkskzVO1DOeBMGRNp8QAJI+S0kF2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pinha\\Documents\\CFA_INSTA_C#\\COURS_C#\\MyAlarm\\MyAlarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pinha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pinha\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
